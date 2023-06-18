@@ -6,6 +6,7 @@ This is web-scraping and data analysis project. This project we have to use HTML
 Deliverables:
 
 1: Scrape titles and preview text from Mars news articles.
+
 2: Scrape and analyze Mars weather data, which exists in a table, create Dataframes and charts   
 using Pandas, and export file to a CVS. 
 
